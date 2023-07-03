@@ -1,0 +1,18 @@
+
+body{
+  background-color: black;
+  color: white;
+  }
+.title-text{
+  margin: 200px 100px 0px 100px}
+
+.title-text2{
+font-family: 'Sacramento', cursive;
+float: left;
+margin-left: 100px;
+margin-bottom: 200px;
+font-size: 4rem;
+}
+.container-fluid{
+  text-align: center;
+}
